@@ -1,21 +1,25 @@
-## Olá, bem vindo ao meu perfil! 👋
+## Olá, bem-vindo(a) ao meu perfil! 👋
 
-Sou ***Desenvolvedora Front-End***, atuo profissionalmente há 3 anos e sou formada em Analise e Desenvolvimento de sistemas pela Fatec de São José dos Campos. Atualmente procuro novos desafios e estou sempre disposta a aprender novas tecnologias. 
+Sou ***Desenvolvedora Front-End*** com mais de **6 anos de experiência** na área de tecnologia, atuando desde 2019 no desenvolvimento de soluções web modernas, escaláveis e acessíveis.  
+Formada em **Análise e Desenvolvimento de Sistemas** pela Fatec de São José dos Campos, tenho paixão por transformar ideias em interfaces intuitivas e funcionais.  
+
+Atualmente, busco novos desafios que me permitam expandir meus conhecimentos, colaborar em projetos inovadores e continuar evoluindo como profissional. 🚀  
 
 ![shield](https://img.shields.io/github/followers/Monica261?style=social)
 
+---
 
-### Siga-me nas redes sociais:
+### 🌐 Siga-me nas redes sociais:
 
 <p align="left">
-
   <a href="https://www.linkedin.com/in/mônica-torres-198875149">
     <img src="./img/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>  
-  
 
-### Tecnologias
+---
+
+### 💻 Tecnologias
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -25,14 +29,18 @@ Sou ***Desenvolvedora Front-End***, atuo profissionalmente há 3 anos e sou form
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
-<br />
 
-### Bancos de dados
+---
+
+### 🗄️ Bancos de dados
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
- </p>
-<br /><br />
+</p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Monica261&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Mônica Torres" /> 
+---
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Monica261&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Mônica Torres" />
+</p>
