@@ -48,5 +48,5 @@ Atualmente, busco novos desafios que me permitam expandir meus conhecimentos, co
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Monica261&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Mônica Torres" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monica261&theme=github_dark" />
 </p>
