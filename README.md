@@ -5,7 +5,7 @@ Formada em **Análise e Desenvolvimento de Sistemas** pela Fatec de São José d
 
 Atualmente, busco novos desafios que me permitam expandir meus conhecimentos, colaborar em projetos inovadores e continuar evoluindo como profissional. 🚀  
 
-![shield](https://img.shields.io/github/followers/Monica261?style=social)
+![shield](https://img.shields.io/github/followers/MonicaNSTorres?style=social)
 
 ---
 
