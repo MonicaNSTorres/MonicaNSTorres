@@ -48,5 +48,5 @@ Atualmente, busco novos desafios que me permitam expandir meus conhecimentos, co
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monica261&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monica261&theme=cobalt&hide_border=true" />
 </p>
